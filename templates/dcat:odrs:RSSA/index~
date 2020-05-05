@@ -28,7 +28,8 @@
         "sv": "Ägare av upphovsrätten"
       },
       "description": {
-        "en": "A reference to the organization that holds copyright over the content of the dataset"
+        "en": "A reference to the organization that holds copyright over the content of the dataset.",
+        "sv": "En referens till organisationen som har upphovsrätt över innehållet av datamängden."
       },
       "cardinality": {
         "min": 0,
